@@ -25,11 +25,11 @@ manner (class around NIST-published JSON file).
 [![Travis build](https://img.shields.io/travis/MolSSI/QCElemental/master.svg)](https://travis-ci.org/MolSSI/QCElemental) 
 [![Codecov coverage](https://codecov.io/gh/MolSSI/QCElemental/branch/master/graph/badge.svg)](https://codecov.io/gh/MolSSI/QCElemental) 
 [![LGTM analysis](https://img.shields.io/lgtm/grade/python/g/MolSSI/QCElemental.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MolSSI/QCElemental/context:python)
-
-[![Last release tag](https://img.shields.io/github/release/MolSSI/QCElemental.svg)](https://github.com/MolSSI/QCElemental/releases) 
-[![Commits since release](https://img.shields.io/github/commits-since/MolSSI/QCElemental/v1.2.svg)](https://github.com/MolSSI/QCElemental/releases/tag/v1.2)
 [![docs latest](https://img.shields.io/badge/docs-latest-5077AB.svg?logo=read%20the%20docs)](https://readthedocs.org/projects/qcelemental/badge/?version=latest) 
 [![chat on slack](https://img.shields.io/badge/chat-on_slack-808493.svg?logo=slack)](https://join.slack.com/t/qcdb/shared_invite/enQtNDIzNTQ2OTExODk0LWM3OTgxN2ExYTlkMTlkZjA0OTExZDlmNGRlY2M4NWJlNDlkZGQyYWUxOTJmMzc3M2VlYzZjMjgxMDRkYzFmOTE) 
+<br>
+[![Last release tag](https://img.shields.io/github/release/MolSSI/QCElemental.svg)](https://github.com/MolSSI/QCElemental/releases) 
+[![Commits since release](https://img.shields.io/github/commits-since/MolSSI/QCElemental/v1.2.svg)](https://github.com/MolSSI/QCElemental/releases/tag/v1.2)
 [![python](https://img.shields.io/badge/python-3.5+-blue.svg)](http://python3statement.org/)
 [![Conda](https://img.shields.io/conda/v/psi4/qcelemental.svg)](https://anaconda.org/psi4/qcelemental)
 
